@@ -68,6 +68,10 @@ No account, no sign-in. [Leave your email](https://hamur.dev/apply), the framewo
 
 ### `06` &nbsp; Sponsor the launch
 
+<p align="left">
+  <a href="https://namespace.so/github-actions/?utm_source=oss&utm_campaign=hamur"><img alt="CI powered by Namespace" src="https://namespace.so/oss/badge.svg" height="32" /></a>
+</p>
+
 Five frameworks, one core, every behavior tested five times: that is a lot of full-time work before 1.0. If your team plans to use it, sponsoring now helps it ship sooner and keeps it independent.
 
 **[Sponsor on GitHub →](https://github.com/sponsors/productdevbook)**
